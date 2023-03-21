@@ -39,9 +39,6 @@ If you fork this PR you can also used the [GitHub Actions scheduled workflow](ht
 
 Works for deleting relevant tweet and likes. I delete my old tweets and am not actively working on improving this but I will accept pull requests.
 
-## Contact
-
-[Mike McQuaid](mailto:mike@mikemcquaid.com)
 
 ## License
 
